@@ -45,7 +45,7 @@ git@gitee.com:huilei567/py-student-system.git
 ~~~
 github地址：
 ~~~github
-https://github.com/huilei567/pyStudentSystem.git
+git@github.com:huilei567/studentSystem.git
 ~~~
 3. 打开本项目地址，复制链接，下载到本地
 4. 右键app.py,运行项目
