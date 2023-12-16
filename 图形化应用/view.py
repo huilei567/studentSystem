@@ -103,6 +103,7 @@ class ChangeFrame(tk.Frame):
         super().__init__(master)
         self.root =master
         tk.Label(self, text='修改界面').pack()
+        tk.Label(self, text='请输入要修改的学生的姓名').pack()
         self.change_frame = tk.Frame(self)
         self.change_frame.pack()
         self.status = tk.StringVar()
@@ -110,6 +111,7 @@ class ChangeFrame(tk.Frame):
         self._java = tk.StringVar()
         self._python = tk.StringVar()
         self._MySQL = tk.StringVar()
+
 
         tk.Label(self.change_frame).grid(row=0, column=0)
         tk.Label(self.change_frame, text='姓名').grid(row=1, column=0, stick=tk.W, pady=10)
