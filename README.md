@@ -38,9 +38,18 @@
 ## 使用说明
 
 1.  下载python11.0版本
-2.  打开本项目地址，复制链接，下载到本地
-3.  右键app.py,运行项目
-4.  默认账号和密码：
+2. 项目地址
+git地址：
+~~~git
+git@gitee.com:huilei567/py-student-system.git
+~~~
+github地址：
+~~~github
+https://github.com/huilei567/pyStudentSystem.git
+~~~
+3. 打开本项目地址，复制链接，下载到本地
+4. 右键app.py,运行项目
+5. 默认账号和密码：
 ~~~python
 admin
 ~~~
